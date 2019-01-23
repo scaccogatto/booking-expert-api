@@ -10,7 +10,7 @@ From cURL
 
 `GET http://127.0.0.1:8080/book/websites/searchbox/:hotel/:lang`
 
-- `:hotel` hotel id (`14577`)
+- `:hotel` hotel id (`1`)
 - `:lang` language (`it`)
 
 ## Output
