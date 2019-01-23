@@ -1,0 +1,18 @@
+{
+  "name": "booking-expert-api",
+  "version": "1.0.0",
+  "description": "api wrapper for booking expert",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco 'Gatto' Boffo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "mkdirp": "^0.5.1"
+  }
+}
